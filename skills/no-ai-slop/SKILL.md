@@ -69,6 +69,8 @@ Often-empty phrases: it's worth noting, it's important to note, at the end of th
 
 **Anthropomorphized non-agents.** Inanimate things and abstractions doing human verbs, in any domain: the model *learns* or *wants*, the codebase *believes*, the market *hopes*, the concrete *sighs*, the data *tells a story*. Domain jargon normalizes some of these ("the model learns"), which is how they slip through. Recast with the real actors as subjects: "the roadmap wants to prioritize retention" becomes "the team prioritized retention."
 
+**Directive tails.** A fact or quote, followed by an instruction about how to react to it: "Consulting is named as a qualifying background, so don't apologize for it," "You have the healthcare one, so say it," "treat it as a hard filter." The fact already implies the response. Delete the instruction and keep the fact. This is the tell in coaching and briefing documents the way explanatory tails are in essays.
+
 **Interpretive metadiscourse.** Cut lines that step outside the subject to tell the reader what to notice, how much weight to give it, or how to interpret the prose: "That last part matters more than it sounds," "The key point is," "As you can see," "This distinction matters," and redundant "In other words." If the point is clear, delete the aside. Otherwise, replace it with support or facts already in the content.
 
 **Weasel attribution.** "Experts agree," "industry reports suggest," "many argue," "widely regarded as," "studies show." Name the source or cut the claim. If the user has no source, ask instead of inventing one.
@@ -77,7 +79,7 @@ Often-empty phrases: it's worth noting, it's important to note, at the end of th
 
 **Synonym cycling.** If the clear word is right, repeat it. Don't rotate terms for style. "The agent reviews the draft. The assistant scores the piece. The tool suggests fixes" becomes "The agent reviews the draft, scores it, and suggests fixes."
 
-**Negative listing.** "Not a X. Not a Y. A Z." Just say Z.
+**Negative listing.** "Not a X. Not a Y. A Z." Just say Z. A lone negative fragment appended to a real sentence is the same move **when it only adds emphasis** — "…workflows employing hundreds of people for decades." Not incremental improvements." The first sentence already carried it, so the fragment just underlines it; cut it. Keep a negative fragment that carries information the preceding sentence does not: "Twelve of them shipped. Not the flagship." rules something out the reader would otherwise assume.
 
 **Dramatic fragmentation.** "X. And Y. And Z." or "That's it. That's the whole thing." Use complete sentences.
 
@@ -101,6 +103,7 @@ Often-empty phrases: it's worth noting, it's important to note, at the end of th
 
 ## Workflow
 
+0. **Edit every part of the artifact, not just the prose.** Headings, section labels, bold lead-ins on bullets, table headers, captions and list stems all get the same pass. Metadiscourse hides there because it reads as structure: "Who you're meeting — read this first", "Qualifications — read these closely", "The tension worth naming", "Language from the actual posting — use these words". A heading is a label, so cut it back to the label. This is the most-skipped step.
 1. Read the full draft before editing.
 2. Identify the core point and 3-5 voice signals to preserve, such as vocabulary, cadence, bluntness, humor, uncertainty, or digressions. Keep this note internal. If you cannot identify the core point, ask the user.
 3. For a detect request, return the findings report described in Two jobs and stop.

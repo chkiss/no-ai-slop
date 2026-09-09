@@ -29,6 +29,8 @@ For detect requests, make sure the response names each pattern found with a quot
 2. Are faux-insight setups, colon reveals (including colon-plus-list elaborations), superficial analysis, fake-strong verbs, synonym cycling, dramatic fragments, punch sentences, and robotic rhythm fixed?
 3. Are vague significance verbs, stock-metaphor equations, and anthropomorphized non-agents replaced with the specific claim and the real actors as subjects?
 4. Is interpretive metadiscourse removed, including authorial metacommentary, reader guidance, emphasis markers, and redundant glossing?
+4a. Were headings, section labels, bold lead-ins, table headers and list stems edited too, not just the prose under them?
+4b. Are directive tails cut — a fact or quote followed by an instruction on how to react to it?
 5. Are importance puffery and weasel attribution replaced with plain facts and named sources, or flagged for the user when no source exists?
 6. Are fake-profound kicker lines deleted instead of rewritten into better metaphors?
 7. Are summary-recap endings cut so the piece ends on a concrete point, takeaway, or next action?
@@ -39,6 +41,7 @@ For detect requests, make sure the response names each pattern found with a quot
 ## Final read
 
 1. Was the edit checked directly against this file without requiring separate editor and evaluator agents?
+1a. If any section was added or rewritten after an earlier pass on this document, was that new text passed too?
 2. Does the draft avoid robotic symmetry, repeated sentence shapes, and stacked punchy fragments?
 3. Would the writer recognize the edited draft as their own voice?
 4. Would the edited draft sound natural if read to a sharp colleague?
