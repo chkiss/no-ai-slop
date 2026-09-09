@@ -105,9 +105,10 @@ Often-empty phrases: it's worth noting, it's important to note, at the end of th
 
 0. **Edit every part of the artifact, not just the prose.** Headings, section labels, bold lead-ins on bullets, table headers, captions and list stems all get the same pass. Metadiscourse hides there because it reads as structure: "Who you're meeting — read this first", "Qualifications — read these closely", "The tension worth naming", "Language from the actual posting — use these words". A heading is a label, so cut it back to the label. This is the most-skipped step.
 1. Read the full draft before editing.
-2. Identify the core point and 3-5 voice signals to preserve, such as vocabulary, cadence, bluntness, humor, uncertainty, or digressions. Keep this note internal. If you cannot identify the core point, ask the user.
+2. Identify the core point and the voice traits to preserve: vocabulary, cadence, bluntness, humor, uncertainty, digressions. If you cannot identify the core point, ask the user.
 3. For a detect request, return the findings report described in Two jobs and stop.
 4. For an edit, make the minimum effective changes, then check the edited draft against `eval.md` yourself.
 5. Re-scan every rewritten sentence against the pattern list before moving on: fixing one pattern routinely creates another (collapsing a colon list produces a run-on; a run-on fix produces an anthropomorphized subject). Prefer two short sentences over one clause-stacked sentence when folding material in.
 6. If any check fails, fix the draft and run the checks again.
 7. Output the full edited draft and a short **What changed** section.
+8. **If you later add or rewrite a section of a document that already had this pass, run the pass again on the new text.** A pass applies to a version, not a file. Sections written after an earlier pass are where slop most reliably survives to the reader.

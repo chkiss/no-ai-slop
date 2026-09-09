@@ -40,8 +40,7 @@ For detect requests, make sure the response names each pattern found with a quot
 
 ## Final read
 
-1. Was the edit checked directly against this file without requiring separate editor and evaluator agents?
-1a. If any section was added or rewritten after an earlier pass on this document, was that new text passed too?
+1. If any section was added or rewritten after an earlier pass on this document, was that new text passed too?
 2. Does the draft avoid robotic symmetry, repeated sentence shapes, and stacked punchy fragments?
 3. Would the writer recognize the edited draft as their own voice?
 4. Would the edited draft sound natural if read to a sharp colleague?
