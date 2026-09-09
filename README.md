@@ -14,20 +14,31 @@ AI makes it easy to generate clean writing that all sounds the same. Even the be
 
 When you use AI to edit, it can also smooth away the vocabulary, cadence, humor, and imperfections that make the writing sound like you.
 
-This is yunyu's fork of [petergyang/no-ai-slop](https://github.com/petergyang/no-ai-slop). It adds extra patterns: punch sentences, vague significance verbs, stock-metaphor equations, anthropomorphized non-agents, and colon-plus-list elaborations.
+This is chkiss's fork of [yunyu/no-ai-slop](https://github.com/yunyu/no-ai-slop), which is itself a fork of [petergyang/no-ai-slop](https://github.com/petergyang/no-ai-slop).
+
+From yunyu: punch sentences, vague significance verbs, stock-metaphor equations, anthropomorphized non-agents, and colon-plus-list elaborations.
+
+Added here:
+
+- **Explanatory tails.** A sentence that earns its place, followed by one that restates it, justifies it, or spells out its implication. Cutting is the fix, not shortening.
+- **Directive tails.** A fact or quote followed by an instruction on how to react to it — "so don't apologize for it." The briefing-document version of the explanatory tail.
+- **Spelled-out numbers.** Numerals for anything two digits or larger. A fraction in words is usually a percentage trying to get out.
+- **Negative fragments.** Extends negative listing to a lone fragment appended for emphasis, while keeping one that rules something out the reader would otherwise assume.
+- **Headings get the pass too.** Metadiscourse hides in headings, section labels and bold list lead-ins because it reads as structure. Added as workflow step 0, the most-skipped step.
+- **A pass applies to a version, not a file.** Sections written after an earlier pass are where slop most reliably survives, so re-run on anything added since.
 
 ## How to install No AI Slop
 
 The easiest way to install the skill is to paste this into ChatGPT, Claude Code, Codex, or your favorite coding agent:
 
 ```text
-Install the /no-ai-slop skill globally from https://github.com/yunyu/no-ai-slop
+Install the /no-ai-slop skill globally from https://github.com/chkiss/no-ai-slop
 ```
 
 You can also install it with `npx`:
 
 ```sh
-npx skills add yunyu/no-ai-slop --skill no-ai-slop --global --yes
+npx skills add chkiss/no-ai-slop --skill no-ai-slop --global --yes
 ```
 
 ## How to use No AI Slop
@@ -82,11 +93,9 @@ It also checks the fundamentals: Lead with the point when that helps, use active
 
 No AI Slop is also available as a plugin in ChatGPT.
 
-## Want more great AI skills?
+## Credits
 
-Check out [Behind the Craft](https://behindthecraft.com), my personal AI system with over a dozen other quality skills and courses.
-
-Subscribe to my [YouTube channel](https://www.youtube.com/@PeterYangYT?sub_confirmation=1) and [newsletter](https://creatoreconomy.so) for practical AI tutorials and interviews.
+Built by Peter Yang — see [Behind the Craft](https://behindthecraft.com), his [YouTube channel](https://www.youtube.com/@PeterYangYT?sub_confirmation=1) and [newsletter](https://creatoreconomy.so). Extended by [yunyu](https://github.com/yunyu/no-ai-slop) and in this fork.
 
 ## License
 
