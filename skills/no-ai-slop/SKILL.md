@@ -71,6 +71,8 @@ Often-empty phrases: it's worth noting, it's important to note, at the end of th
 
 **Directive tails.** A fact or quote, followed by an instruction about how to react to it: "Consulting is named as a qualifying background, so don't apologize for it," "You have the healthcare one, so say it," "treat it as a hard filter." The fact already implies the response. Delete the instruction and keep the fact. This is the tell in coaching and briefing documents the way explanatory tails are in essays.
 
+**Rhetorical-question headings.** A heading that asks instead of tells: "But at what cost?", "So what does this mean?", "Why does this matter?", "Where do we go from here?" A heading is a signpost, so make it carry the section's answer. "But at what cost?" becomes "Render time is eating the writing time." This applies to titles and subheads as well as section headers. Keep a question heading only when the section genuinely leaves the question open, or when the question is the writer's own recognizable aside.
+
 **Interpretive metadiscourse.** Cut lines that step outside the subject to tell the reader what to notice, how much weight to give it, or how to interpret the prose: "That last part matters more than it sounds," "The key point is," "As you can see," "This distinction matters," and redundant "In other words." If the point is clear, delete the aside. Otherwise, replace it with support or facts already in the content.
 
 **Weasel attribution.** "Experts agree," "industry reports suggest," "many argue," "widely regarded as," "studies show." Name the source or cut the claim. If the user has no source, ask instead of inventing one.
@@ -96,6 +98,8 @@ Often-empty phrases: it's worth noting, it's important to note, at the end of th
 **Fake-profound kickers.** Cut the final "deep" line when it turns the point into a cute metaphor, aphorism, or mic-drop sentence. Do not rewrite it into a better metaphor. Do not preserve the rhythm. Delete it, then end on the clearest concrete sentence already in the draft. If the ending needs more closure, add a plain takeaway or next action.
 
 **Summary-recap endings.** "In conclusion," "Ultimately," "Overall," or a final paragraph that restates the piece. The reader was just there. End on the last concrete point, takeaway, or next action instead.
+
+**Engagement bait.** Cut hollow calls to action bolted onto the end: "What do you think?", "Drop your thoughts below," "Let me know in the comments," "Agree or disagree?", "Follow for more," "Save this for later." They ask the reader for attention without giving them anything to answer. Delete them and end on the last concrete point. If the writer wants replies, replace the bait with one specific question about the subject that only a reader with real experience could answer, or with a plain next action.
 
 **Formatting slop.** Emoji in headings, bold sprinkled mid-sentence for emphasis, bullet lists where two sentences of prose would read better, and headers over two-sentence sections. Format should follow the content, not decorate it.
 

@@ -1,6 +1,6 @@
 # No AI Slop
 
-Remove 20+ patterns of AI slop from your writing without flattening your personal voice.
+Remove 27 patterns of AI slop from your writing without flattening your personal voice.
 
 https://github.com/user-attachments/assets/f3055450-78eb-4672-880a-88a4fa54bde9
 
@@ -24,6 +24,8 @@ Added here:
 - **Directive tails.** A fact or quote followed by an instruction on how to react to it — "so don't apologize for it." The briefing-document version of the explanatory tail.
 - **Spelled-out numbers.** Numerals for anything two digits or larger. A fraction in words is usually a percentage trying to get out.
 - **Negative fragments.** Extends negative listing to a lone fragment appended for emphasis, while keeping one that rules something out the reader would otherwise assume.
+
+From [balaji-calluru](https://github.com/balaji-calluru/no-ai-slop): rhetorical-question headings and engagement bait.
 - **Headings get the pass too.** Metadiscourse hides in headings, section labels and bold list lead-ins because it reads as structure. Added as workflow step 0, the most-skipped step.
 - **A pass applies to a version, not a file.** Sections written after an earlier pass are where slop most reliably survives, so re-run on anything added since.
 
@@ -69,18 +71,35 @@ Use it to generate the most cringe AI slop possible as satire.
 
 ## The slop that this skill catches
 
-No AI Slop checks for 20+ patterns, including:
+27 patterns:
 
-1. **Binary contrasts.** “It’s not X. It’s Y.”
-2. **Throat-clearing openers.** “Here’s the thing,” “Let me be clear”
-3. **Faux-insight setups.** “What nobody tells you,” “The part everyone misses”
-4. **Colon reveals.** “The best part: it learns.”
-5. **Dramatic fragments.** “That’s it. That’s the whole thing.”
-6. **Superficial analysis.** “highlighting the team’s commitment to innovation”
-7. **Importance puffery.** “marks a pivotal moment,” “a testament to”
-8. **Weasel attribution.** “experts agree,” “studies show”
-9. **Synonym cycling.** “The agent handles your email. The assistant drafts replies.”
-10. **Fake-profound endings.** “The future isn’t coming. It’s already here.”
+1. **Binary contrasts.** "It's not X. It's Y."
+2. **Throat-clearing openers.** "Here's the thing," "Let me be clear"
+3. **Faux-insight setups.** "What nobody tells you," "The part everyone misses"
+4. **Colon reveals.** "The best part: it learns."
+5. **Superficial analysis.** "...highlighting the team's commitment to innovation"
+6. **Importance puffery.** "marks a pivotal moment," "a testament to"
+7. **Vague significance verbs.** "X matters," "what really counts is X"
+8. **Stock-metaphor equations.** "Speed is their superpower."
+9. **Anthropomorphized non-agents.** "the roadmap wants to prioritize retention"
+10. **Directive tails.** A fact, then an instruction on how to react to it.
+11. **Rhetorical-question headings.** "But at what cost?"
+12. **Interpretive metadiscourse.** "That last part matters more than it sounds."
+13. **Weasel attribution.** "experts agree," "studies show"
+14. **Fake-strong verbs.** "serves as a centralized hub"
+15. **Synonym cycling.** "The agent handles your email. The assistant drafts replies."
+16. **Negative listing.** "Not a X. Not a Y. A Z."
+17. **Dramatic fragmentation.** "That's it. That's the whole thing."
+18. **Punch sentences.** "It worked." "Nothing was lost."
+19. **Explanatory tails.** A sentence, then a second one restating it.
+20. **Spelled-out numbers.** "sixteen accounts" for "16 accounts"
+21. **Robotic rhythm.** Repeated sentence shapes and stacked fragments.
+22. **Rhetorical setups.** "What if I told you...", "Plot twist:"
+23. **Engagement bait.** "What do you think?", "Follow for more"
+24. **Fake-profound kickers.** "The future isn't coming. It's already here."
+25. **Summary-recap endings.** "In conclusion," "Ultimately,"
+26. **Formatting slop.** Emoji headings, decorative bold, bullets that should be prose.
+27. **Em dashes.** Used as a default rhythm crutch.
 
 It also checks the fundamentals: Lead with the point when that helps, use active voice, untangle hard-to-follow sentences, and prefer concrete details over abstractions.
 
@@ -92,10 +111,6 @@ It also checks the fundamentals: Lead with the point when that helps, use active
 - [`build_plugin.py`](scripts/build_plugin.py) builds and validates the plugin package.
 
 No AI Slop is also available as a plugin in ChatGPT.
-
-## Credits
-
-Built by Peter Yang — see [Behind the Craft](https://behindthecraft.com), his [YouTube channel](https://www.youtube.com/@PeterYangYT?sub_confirmation=1) and [newsletter](https://creatoreconomy.so). Extended by [yunyu](https://github.com/yunyu/no-ai-slop) and in this fork.
 
 ## License
 
