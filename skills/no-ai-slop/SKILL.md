@@ -83,6 +83,10 @@ Often-empty phrases: it's worth noting, it's important to note, at the end of th
 
 **Punch sentences.** Short standalone sentences used as dramatic beats that add no information: "You found a real bug." "Nothing was lost." "It worked." If the surrounding text already shows the fact, cut the sentence; otherwise fold it into a neighboring sentence. "Nothing was lost. The recordings and transcripts are intact" becomes "The recordings and transcripts are intact."
 
+**Explanatory tails.** A sentence that earns its place, followed by a second one that restates it, justifies it, or spells out its implication. The tail can be a clause ("...and should jump the queue" after "beats every new logo"), a whole sentence ("The bias changes little here" immediately before the sentence explaining why), or a closing moral ("...so there is no level at which to stop"). It reads as thoroughness and is the most common padding in otherwise clean drafts. Delete the tail; if the first sentence cannot stand without it, the first sentence is the one to fix. Do not rewrite the tail into a shorter tail — cutting is the fix.
+
+**Spelled-out numbers.** Use numerals for anything two digits or larger, including ordinals and shares: "16 accounts" not "sixteen accounts", "20th" not "twentieth", "5%" not "a twentieth". A fraction in words is nearly always a percentage trying to get out, and the percentage is both shorter and easier to check. Spell out one to nine. Never open a sentence with a numeral — recast the sentence instead ("Sixteen accounts spread one person too thin" becomes "Working 16 accounts spreads one person too thin"), and keep a number that opens a heading or a list item in numerals.
+
 **Robotic rhythm.** Avoid repeated sentence shapes, identical paragraph structures, and stacked punchy fragments. Vary the shape only when it helps the point.
 
 **Rhetorical setups.** "What if I told you...", "Think about it:", "Plot twist:", and self-answered "Question? Answer." pairs. Drop them and make the point.
