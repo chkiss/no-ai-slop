@@ -79,6 +79,8 @@ Often-empty phrases: it's worth noting, it's important to note, at the end of th
 
 **Synonym cycling.** If the clear word is right, repeat it. Don't rotate terms for style. "The agent reviews the draft. The assistant scores the piece. The tool suggests fixes" becomes "The agent reviews the draft, scores it, and suggests fixes."
 
+**Non-parallel lists and fields.** Items in a list, the cells of one table column, and sibling headings take one grammatical form: all noun phrases, or all verb-first clauses in the same tense, never a mix. A categorical column (stage, status, rating) uses a small fixed set of labels, stated once and repeated exactly: "Demo", "Paid trial", "Prospecting". Not "Demo", "PCMA demo, very interested", "Agreed to trial but never started". Move the free-text detail to its own column or the notes. "Seeded formulary table / Linking plans to formularies / We also enriched client IDs" becomes "Formulary table seeded / Plans linked to formularies / Client IDs added to the ontology". This is the one place uniform shape is required; Robotic rhythm applies to prose, not to lists.
+
 **Negative listing.** "Not a X. Not a Y. A Z." Just say Z. A lone negative fragment appended to a real sentence is the same move **when it only adds emphasis** — "…workflows employing hundreds of people for decades." Not incremental improvements." The first sentence already carried it, so the fragment just underlines it; cut it. Keep a negative fragment that carries information the preceding sentence does not: "Twelve of them shipped. Not the flagship." rules something out the reader would otherwise assume.
 
 **Dramatic fragmentation.** "X. And Y. And Z." or "That's it. That's the whole thing." Use complete sentences.
